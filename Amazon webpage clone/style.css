@@ -89,3 +89,35 @@
 .fa-cart-shopping{
     font-size: 25px;
 }
+.pannel{
+    background-color: #222f3d;
+    height: 35px;
+    text-align: center;
+    display: flex;
+    color: white;
+}
+.fa-bars{
+    margin-right: 5px;
+}
+.AllOptions{
+    color: white;
+    display: flex;
+    width:58.42px;
+    height:39;
+    padding: 7px;
+}
+.MxPlayer{
+    width: 81.06px;
+    height: 28px;
+    padding:7px;
+}
+.Sell{
+    width: 41px;
+    height: 20px;
+    padding: 7px;
+}
+.BestSeller{
+    width: 91px;
+    height: 28px;
+    padding: 7px;   
+}
