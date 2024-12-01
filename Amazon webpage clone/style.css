@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+}
+
+.NavBar {
+    height: 60px;
+    background-color: #0f1111;
+    color: rgb(255,255,255);
+    display: flex;
+    align-items: center;
+}
+.NavLogo{
+    height: 50px;
+    width: 125px;
+    margin-left: 4px;
+}
+.AmazonLogo{
+    height: 50px;
+    width: 125px;
+    margin-top: 9px;
+}
+.border{
+    border: 2px solid transparent;
+
+}
+.border:hover{
+    border: 2px solid white;
+}
+.AddIcon{
+    display: flex;
+    align-items: center;
+}
+.DeliverTo{
+    color: #cccccc;
+    font-size: 0.8rem;
+    margin-left: 15px;
+}
+.NavAdress{
+    margin-left: 12px;
+    padding: 9px;
+}
+.location{
+    margin-left: 4px;
+}
+.NavSeach{
+    margin-left: 15px;
+    background-color: orange;
+    width: 500px;
+    height: 40px;
+    display: flex;
+    border-radius: 4px;
+}
+.InputText{
+    width: 400px;
+}
+.selectSearch{
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+.searchIcon{
+    margin-left: 19px;
+    margin-top: 11px;
+}
+.LanguageSelect{
+    display: flex;
+    margin-left: 8px;
+    height: 25px;
+    padding: 9px;
+    align-items: center;
+}
+.LanguageSelection{
+    background-color: transparent;
+    color: white;
+    margin-left: 3px;
+    border: transparent;
+}
+.SignInOption{
+    padding: 8px;
+}
+.ReturnsOrders{
+    padding: 9px;
+}
+.Cart{
+    margin-left: 10px;
+    padding: 9px;
+}
+.fa-cart-shopping{
+    font-size: 25px;
+}
