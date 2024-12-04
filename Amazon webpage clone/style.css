@@ -91,8 +91,9 @@
 }
 .pannel{
     background-color: #222f3d;
-    height: 35px;
+    height: 40px;
     text-align: center;
+    align-items: center;
     display: flex;
     color: white;
 }
@@ -104,20 +105,71 @@
     display: flex;
     width:58.42px;
     height:39;
-    padding: 7px;
+    padding-top: 7px;
+    padding-bottom: 7px;
 }
 .MxPlayer{
     width: 81.06px;
-    height: 28px;
-    padding:7px;
+    padding-top: 7px;
+    padding-bottom: 7px;
 }
 .Sell{
     width: 41px;
-    height: 20px;
-    padding: 7px;
+    padding-top: 7px;
+    padding-bottom: 7px;
 }
 .BestSeller{
     width: 91px;
-    height: 28px;
-    padding: 7px;   
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+.TodaysDeal{
+    width: 102px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+.Mobiles{
+    width: 67px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+.Electronics{
+    width: 87px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+.Customer{
+    width: 128px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+.HomeAndKitchen{
+    width: 121px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+.Prime{
+    width: 68px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+.NewRelease{
+    width: 100px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+.CarAndMotorbike{
+    width: 110px;
+    margin-left: 5px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+.AmazonPay{
+    margin-left: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+.Fashion{
+    padding-top: 7px;
+    padding-bottom: 7px;
 }
