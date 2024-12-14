@@ -173,3 +173,17 @@
     padding-top: 7px;
     padding-bottom: 7px;
 }
+
+/* Heroic section starts */
+
+.heroic-image{
+    width: 1272px;
+    height: 456px;
+}
+.hero_message{
+    display: flex;
+    justify-content: center;
+}
+.hero_message a{
+    color: royalblue;
+}
